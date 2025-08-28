@@ -1,0 +1,21 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Student-AnjumJahan/url-shortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Student-AnjumJahan/url-shortner/issues"
+  },
+  "homepage": "https://github.com/Student-AnjumJahan/url-shortner#readme"
+}
